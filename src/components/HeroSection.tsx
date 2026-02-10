@@ -61,7 +61,8 @@ const HeroSection = () => {
             <ArrowDown size={16} />
           </a>
           <a
-            href="Sandeep_Resume.pdf"
+            href="/Sandeep_Resume.pdf" 
+            download="Sandeepkumar_Resume.pdf"
             className="inline-flex items-center gap-2 px-6 py-3 rounded-lg border border-border text-foreground font-medium text-sm hover:bg-secondary transition-colors"
           >
             <FileDown size={16} />
